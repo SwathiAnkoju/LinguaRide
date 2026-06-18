@@ -1,4 +1,4 @@
-package com.swathi.linguaride;
+package com.swathi.linguaride.bookingservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
