@@ -10,4 +10,4 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
-/target
+target/
